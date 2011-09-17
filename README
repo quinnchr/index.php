@@ -1,10 +1,4 @@
-#index.php
+index.php
+==========
 
-index.php is everything you need in one. It aims to be a webserver, in-memory database, and mvc framework.  
-
-
-##Usage
-
-``` bash
-php index.php
-```
+index.php is everything you need in one. It aims to be a webserver, in-memory database, and mvc framework.
